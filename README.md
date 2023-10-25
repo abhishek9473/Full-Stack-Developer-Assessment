@@ -17,7 +17,7 @@ step-3 : run all migration with command >> `sequelize db:migrate`
         this command create all tables in db.
 step-4 : run seeder file with command >> `sequelize db:seed:all`
         this command create a admin and a user in db
-step-4 : run file with code >> `node .\index.js`
+step-5 : run file with code >> `node .\index.js`
 
         backend server start on port : 3000
 
@@ -26,8 +26,7 @@ step-4 : run file with code >> `node .\index.js`
 ## frontend : Next-js (React-js)
 
 step-1 : open ui folder and use `npm install` for project setup.
-step-2 : env file
-step-3 : start server >> `npm run dev`
+step-2 : start server >> `npm run dev`
 
         Open [http://localhost:5000] with your browser to see the result.
 
